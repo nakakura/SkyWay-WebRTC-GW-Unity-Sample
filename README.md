@@ -10,3 +10,6 @@ Unity用のプロジェクトとブラウザ側のプロジェクト
 ## License
 WARRANTIES OR CONDITIONS
 Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+
+ご自由に活用いただいて構いませんが、直接的及び間接的な影響について一切の保証は致しません。
